@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learning for children</string>
+    <string name="aplhabet">Alphabet</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_children_s_learning">Welcome to Children\'s Learning</string>
+    <string name="learn_the_alphabets">Learn the alphabets</string>
+    <string name="learn_the_numbers">Learn the numbers</string>
+    <string name="learn_about_animals">Learn about animals</string>
+    <string name="train_yourself">Change language</string>
+    <string name="learn_about_fruits">Learn about fruits</string>
+    <string name="learn_the_colors">Learn the colors</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo1">TODO</string>
+    <string name="french">FRENCH</string>
+    <string name="english">ENGLISH</string>
+</resources>
